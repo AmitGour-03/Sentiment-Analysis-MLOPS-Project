@@ -44,7 +44,7 @@
 28. Create new dir - flask_app | Inside that, add rest of the files and dir
 29. pip install flask and run the app (dvc push - to push data to S3)
 
-30. pip freeze > requirements.txt
+30. pip freeze > requirements.txt    (used given file)
 31. Add .github/workflows/ci.yaml file
 
 32. Create key token on Dagshub for auth: Go to dagshub repo > Your settings > Tokens > Generate new token
